@@ -1,9 +1,6 @@
 import telebot
 import youtube_dl
 from pytube import YouTube
-import instaloader
-import os
-import requests
 from datetime import datetime
 import time
 
